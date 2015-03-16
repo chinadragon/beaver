@@ -1,1 +1,1 @@
-beaver is a lightweight php framework
+beaver is a lightweight framework for PHP
